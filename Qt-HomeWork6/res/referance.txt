@@ -1,0 +1,2 @@
+Click Open - to open .txt file
+Click Save - to save your text in .txt file

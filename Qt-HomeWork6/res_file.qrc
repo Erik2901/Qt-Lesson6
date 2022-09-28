@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/referance.txt</file>
+        <file>res/switchlang_ru.qm</file>
+    </qresource>
+</RCC>
